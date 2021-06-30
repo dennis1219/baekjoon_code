@@ -27,3 +27,5 @@ while True:
 				
 	except:
 		break
+
+#Code became long since I made a mistake while coding since I didn't read the given conditions in the problem precisely. Better not make the same mistake next time.
