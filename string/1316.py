@@ -32,3 +32,5 @@ for i in range(a):
             break
 
 print(b)
+
+#Figured out that the first code doesn't work for 'babb'. Need to fix for loop part.
