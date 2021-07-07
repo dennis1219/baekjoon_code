@@ -13,3 +13,5 @@ for i in a:
             count += 1
 
 print(count)
+
+#Need to study more about using loops!
