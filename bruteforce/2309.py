@@ -30,3 +30,5 @@ for a in range(9):
 
 for i in range(7):
     print(z[i])
+
+# I know that this problem can be solved by just removing two fake dwarfs. However, I didn't feel like it XD
