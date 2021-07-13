@@ -25,3 +25,4 @@ while True:
 
 print(l[n-1])
 
+#I know that this problem can be solved by just checking if 666 is in the string. However, I wanted to try some serious brute force to see how long it takes to run.
